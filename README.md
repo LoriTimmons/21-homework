@@ -29,10 +29,6 @@
   ## Questions
   #### Contact Me @: lorietimmons@gmail.com<br>
   #### GitHub Profile: LoriTimmons
-  #### GitHub Repo Link: https://github.com/LoriTimmons/09-homework
+  #### GitHub Repo Link: https://github.com/LoriTimmons/21-homework
+  #### Deployed application: https://loritimmons.github.io/21-homework/
 
-
-
-
-Other 
-Once your server is up and running, navigate to localhost:3001/graphql
